@@ -1,0 +1,108 @@
+.ui.fixed.secondary.menu{
+    background-color: #EFEFEF;
+    font-family: "Arial Narrow";
+}
+
+.img.principal{
+    margin-top: 36px;
+    margin-bottom: 20px;
+}
+
+.ui.row.img{
+    background-image: url("../imagens/fisrttrip.png");
+    background-size: 100%;
+    text-align: center;
+}
+
+.ui.center.aligned.grid{
+    text-align: center;
+}
+
+.ui.two.column.doubling.stackable.grid.container{
+    text-align: right;
+}
+
+.ui.four.column.doubling.stackable.grid.container{
+    font-family: "Helvetica";
+}
+
+.ui.five.column.doubling.stackable.grid.container{
+    font-family: "Helvetica";
+}
+
+.ui.row.aligned{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #EFEFEF;
+}
+
+.ui.row.img{
+    padding-top: 300px;
+    padding-bottom: 80px;
+}
+
+
+/*continente*/
+.img{
+    margin-top: 100px;
+}
+
+.ui.row{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 0px;
+    width: 100%;
+}
+
+.ui.seven.wide.column{
+    text-align: right;
+}
+
+.ui.five.column.stackable.grid.container{
+    text-align: center;
+    padding-top: 50px;
+    font-family: "Arial";
+}
+
+/*país*/
+
+.image{
+    margin-top: 55px;
+}
+
+.ui.six.column.center.aligned.divided.relaxed.stackable.grid{
+    background-color: #EFEFEF;
+    margin-top: 50px;
+    font-family: "Arial";
+}
+
+.ui.center.aligned.row.principal{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: "Arial Narrow";
+    font-size: large;
+    background-color: white;
+}
+
+.ui.medium.right.floated.image{
+    text-align: right;
+}
+
+.ui.row.image{
+    background-image: url("../imagens/roteiro.png");
+    background-size: 100%;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+.ui.vertical.inverted.center.aligned.footer.segment{
+    background-color: #DADADA;
+}
+
+.center.aligned.row{
+    font-family: "Arial Narrow";
+}
+
+
